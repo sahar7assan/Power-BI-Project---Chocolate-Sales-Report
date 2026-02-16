@@ -1,4 +1,3 @@
-# Power-BI-Project---Chocolate-Sales-Report
 # 🍫 Chocolate Sales Analytics Dashboard
 
 ## 📝 Project Overview
@@ -72,5 +71,5 @@ Sales breakdown across:
 
 ## 📷 Dashboard Preview
 
-_Add your dashboard screenshot here_
+
 
