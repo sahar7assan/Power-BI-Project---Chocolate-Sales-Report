@@ -11,6 +11,11 @@ The dashboard delivers detailed visual analysis of:
 - Overall operational performance
 
 It combines KPIs, charts, and interactive elements to provide clear and actionable business insights.
+---
+
+## 📷 Dashboard Preview
+![Chocolate Sales Dashboard](dashboard.png)
+
 
 ---
 
@@ -65,11 +70,15 @@ Sales breakdown across:
 - Identify top-performing products by revenue and profitability  
 - Track regional sales performance across international markets  
 - Support data-driven decision-making  
-- Transform raw sales data into actionable insights  
+- Transform raw sales data into actionable insights
 
----
+## Project Link 
 
-## 📷 Dashboard Preview
-![Chocolate Sales Dashboard](dashboard.png)
+- https://app.powerbi.com/view?r=eyJrIjoiNDkzOTRlZDctZmY1Ny00Mzc2LThlNzEtM2E1ZGZhMjg5NTQxIiwidCI6ImMwMjMwYzg0LWRiNzctNGVhYS04OTYyLTJlNzY2MmFhOWQ3NyIsImMiOjl9
+
+<iframe title="Chocolate Analytics Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDkzOTRlZDctZmY1Ny00Mzc2LThlNzEtM2E1ZGZhMjg5NTQxIiwidCI6ImMwMjMwYzg0LWRiNzctNGVhYS04OTYyLTJlNzY2MmFhOWQ3NyIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+
+## ؛#
+
 
 
