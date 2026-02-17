@@ -11,7 +11,16 @@ The dashboard delivers detailed visual analysis of:
 - Overall operational performance
 
 ---
+## 👥 Team Project
 
+This dashboard was developed as part of a collaborative team project
+- Nusaiba kambal
+- Arwa Hassan
+- Nesreen Adam
+- Afag Mohammed
+We worked together across different stages
+
+---
 ## Dashboard Preview
 ![Chocolate Sales Dashboard](dashboard.png)
 
@@ -69,7 +78,9 @@ Sales breakdown across:
 - Transform raw sales data into actionable insights
 ---
 ## 🔗 Live Dashboard
-You can explore the interactive dashboard here: [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNDkzOTRlZDctZmY1Ny00Mzc2LThlNzEtM2E1ZGZhMjg5NTQxIiwidCI6ImMwMjMwYzg0LWRiNzctNGVhYS04OTYyLTJINzY2MmFhOWQ3NylsImMiOjI9)
+You can explore the interactive dashboard here: [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNDkzOTRlZDctZmY1Ny00Mzc2LThlNzEtM2E1ZGZhMjg5NTQxIiwidCI6ImMwMjMwYzg0LWRiNzctNGVhYS04OTYyLTJlNzY2MmFhOWQ3NyIsImMiOjl9)
+
+## This project is co
 
 
 
