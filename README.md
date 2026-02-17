@@ -13,13 +13,13 @@ The dashboard delivers detailed visual analysis of:
 ---
 ## 👥 Team Project
 
-This dashboard was developed as part of a collaborative team project
+This dashboard was developed as part of a collaborative team project with:
 - Nusaiba kambal
 - Arwa Hassan
 - Nesreen Adam
 - Afag Mohammed
-- 
-We worked together across different stages
+
+We worked together across different stages 
 
 ---
 ## Dashboard Preview
