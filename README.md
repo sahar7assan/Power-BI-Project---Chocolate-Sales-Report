@@ -1,6 +1,6 @@
-# 🍫 Chocolate Sales Analytics Dashboard
+# Chocolate Sales Analytics Dashboard
 
-## 📝 Project Overview
+## Project Overview
 
 This project presents an **interactive Power BI dashboard** built using a comprehensive chocolate products sales dataset.
 
@@ -14,20 +14,20 @@ It combines KPIs, charts, and interactive elements to provide clear and actionab
 
 ---
 
-## 📊 Key Features
+## Key Features
 
-### 🔢 KPI Cards
+### KPI Cards
 Quick performance snapshot including:
-- 💰 Total Sales: **$34M**
-- 📦 Total Boxes Sold: **2M**
-- 🚚 Shipments: **6K**
-- 💵 Total Profit: **$14M**
+- Total Sales: **$34M**
+- Total Boxes Sold: **2M**
+- Shipments: **6K**
+- Total Profit: **$14M**
 
-### 🍫 Product Analysis
+### Product Analysis
 - Bar charts highlighting top-selling chocolate products by revenue.
 - Product-level performance comparison.
 
-### 🌍 Regional Distribution
+### Regional Distribution
 Sales breakdown across:
 - Australia  
 - Canada  
@@ -36,21 +36,21 @@ Sales breakdown across:
 - UK  
 - USA  
 
-### 📈 Profitability Analysis
+### Profitability Analysis
 - Product-wise profit percentage analysis.
 - Identification of most profitable chocolate products.
 
-### 📅 Time Series Analysis
+### Time Series Analysis
 - Monthly sales trends from **March 2023 to January 2024**.
 - Clear visibility of seasonal performance patterns.
 
-### 🎛 Dynamic Slicer
+### Dynamic Slicer
 - Interactive filtering by product or region.
 - Enables flexible and customized data exploration.
 
 ---
 
-## 🛠 Skills & Tools Used
+## Skills & Tools Used
 
 - **Power BI** – Dashboard development & visualization  
 - **Data Modeling & DAX** – KPI calculations & performance metrics  
@@ -59,7 +59,7 @@ Sales breakdown across:
 
 ---
 
-## 🎯 Project Purpose
+## Project Purpose
 
 - Analyze chocolate product demand and sales trends  
 - Identify top-performing products by revenue and profitability  
@@ -70,6 +70,6 @@ Sales breakdown across:
 ---
 
 ## 📷 Dashboard Preview
-
+![Chocolate Sales Dashboard](dashboard.png)
 
 
